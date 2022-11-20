@@ -1,0 +1,5 @@
+1) I added Google ES-lint recomendations. Is it fine to divide it with ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier', 'google']?
+
+2) What does "Pre-commit hooks (Husky) and/or CI (GitHub Actions) for linter" mean?
+
+3) What does "Dev Server as part of the bundler" mean?
